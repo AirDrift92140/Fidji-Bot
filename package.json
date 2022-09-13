@@ -1,8 +1,7 @@
 {
-	"name": "discordbot-template",
-	"version": "3.3.0",
-	"description": "A modified template based on discordjs.guide to create your own discord-js based bot!",
-	"funding": "https://ko-fi.com/namanvrati",
+	"name": "🏮 · FidjiBot",
+	"version": "0.0.1",
+	"description": "Un bot Open source!",
 	"types": "./typings.d.ts",
 	"main": "bot.js",
 	"scripts": {
@@ -10,32 +9,21 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/NamVr/DiscordBot-Template.git"
+		"url": "git+https://github.com/LepetilYT/Fidji-Bot.git"
 	},
 	"keywords": [
 		"discord-js"
 	],
 	"author": {
 		"name": "Naman Vrati",
-		"url": "https://github.com/NamVr",
+		"url": "https://github.com/LepetilYT",
 		"email": "info@namanvrati.cf"
 	},
-	"contributors": [
-		{
-			"name": "Krish Garg",
-			"url": "https://github.com/KrishGarg"
-		},
-		{
-			"name": "Thomas Fournier",
-			"email": "thomas@artivain.com",
-			"url": "https://github.com/GoudronViande24"
-		}
-	],
 	"license": "Apache-2.0",
 	"bugs": {
-		"url": "https://github.com/NamVr/DiscordBot-Template/issues"
+		"url": "https://github.com/LepetilYT/Fidji-Bot/issues"
 	},
-	"homepage": "https://github.com/NamVr/DiscordBot-Template#readme",
+	"homepage": "https://github.com/LepetilYT/Fidji-Bot#readme",
 	"dependencies": {
 		"@discordjs/rest": "^1.0.0",
 		"discord-api-types": "^0.36.2",
