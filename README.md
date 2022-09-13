@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to NamVr Discord Bot Template 👋</h1>
+<h1 align="center">Bienvenue sur le 🏮 · FidjiBot  👋</h1>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-v3.3-blue.svg?cacheSeconds=2592000" />
   <a href="https://github.com/NamVr/DiscordBot-Template#readme" target="_blank">
